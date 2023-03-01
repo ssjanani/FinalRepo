@@ -5,7 +5,7 @@ public class Proj {
 	{
 
 		int d=200;
-		int b=20;
+		int b=200;
 		int c;
 		c=d/b;
 		System.out.println("The value of C is:"+c);
