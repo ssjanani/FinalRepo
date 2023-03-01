@@ -4,7 +4,7 @@ public class Proj {
 	public static void main (String[] args)
 	{
 
-		int d=200;
+		int d=400;
 		int b=200;
 		int c;
 		c=d/b;
