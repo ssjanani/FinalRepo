@@ -3,7 +3,7 @@ package test;
 public class Proj {
 	public static void main (String[] args)
 	{
-		int d=50;
+		int d=40;
 		int b=2;
 		int c;
 		c=d/b;
